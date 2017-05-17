@@ -28,5 +28,8 @@ namespace consoleFraction
             this.Num = n;
             this._den = d;
         }
+
+        public void someMethod()
+        { }
     }
 }
