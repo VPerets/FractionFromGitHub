@@ -31,5 +31,6 @@ namespace consoleFraction
 
         public void someMethod()
         { }
+        public void SomeMethod2() { }
     }
 }
