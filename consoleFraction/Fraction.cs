@@ -35,7 +35,7 @@ namespace consoleFraction
        
         public void SomeMethod2() { }
 
-        public void SomeMethod4() { }
+        public double SomeMethod4() { return 1123.12; }
 
         public string someMethod5() { return "hello world 2";  }
     }
