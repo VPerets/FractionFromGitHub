@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace consoleFraction
 {
-    class Fraction
+   public class Fraction
     {
         private int _den;
         public int Num { get; set; }
@@ -29,11 +29,11 @@ namespace consoleFraction
             this._den = d;
         }
 
-        public void someMethod() { }
+        public static bool someMethod() { return true; }
        
-        public void someMethod3() { }
+        public int someMethod3() { return 1234; }
        
-        public void SomeMethod2() { }
+        public string SomeMethod2() { return "hello world"; }
 
         public void SomeMethod4() { }
 

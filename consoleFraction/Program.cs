@@ -11,6 +11,11 @@ namespace consoleFraction
         static void Main(string[] args)
         {
             Console.WriteLine(new Fraction());
+
+            Fraction f = new Fraction();
+            Console.WriteLine(f);
+
+            Console.WriteLine(Fraction.someMethod());
         }
     }
 }
