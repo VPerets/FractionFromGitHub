@@ -29,10 +29,10 @@ namespace consoleFraction
             this._den = d;
         }
 
-        public void someMethod()
-        { }
-        public void someMethod3()
-        { }
+        public void someMethod() { }
+       
+        public void someMethod3() { }
+       
         public void SomeMethod2() { }
 
         public void SomeMethod4() { }
