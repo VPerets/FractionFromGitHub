@@ -33,10 +33,10 @@ namespace consoleFraction
        
         public int someMethod3() { return 1234; }
        
-        public string SomeMethod2() { return "hello world"; }
+        public void SomeMethod2() { }
 
         public void SomeMethod4() { }
 
-        public void someMethod5() { }
+        public string someMethod5() { return "hello world 2";  }
     }
 }
