@@ -39,6 +39,8 @@ namespace consoleFraction
 
         public string someMethod5() { return "hello world 2";  }
 
-        public string someMethod6() { return "hello world 3"; }
+        public string someMethod7() { return "hello world 3"; }
+      
+        public int someMethod6(){return 999999;}
     }
 }
