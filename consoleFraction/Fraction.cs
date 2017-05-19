@@ -42,5 +42,7 @@ namespace consoleFraction
         public string someMethod7() { return "hello world 3"; }
       
         public int someMethod6(){return 999999;}
+
+        public int methodInDevelop() { return 12345;}
     }
 }
